@@ -1,0 +1,8 @@
+{
+  "name": "Prompt Architect.Cyberhuntlab",
+  "description": "An enterprise-grade, production-ready AI prompt optimization, reframing, and security-polishing platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
